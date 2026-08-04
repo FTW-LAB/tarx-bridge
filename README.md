@@ -1,7 +1,13 @@
 # tarx-bridge
 
-Interop notes for **TARX upstream only**.
+**TARX upstream only** interop notes (org **FTW-LAB**).
 
-Do not rebrand proprietary TARX product surfaces as FTW Lab. Consume public/upstream packages and documented APIs.
+```bash
+git clone https://github.com/FTW-LAB/tarx-bridge.git
+```
 
-https://ftwlab.com
+- Integrate local private runtime — **do not vendor** proprietary TARX surfaces
+- Field HF models offline via `huggingface-cli` + operator cache
+- Site: https://ftwlab.com/models#tarx
+
+ops@ftwlab.com
