@@ -2,19 +2,19 @@
 
 TARX upstream-only local runtime integration notes
 
-**Org:** [FTW-LAB](https://github.com/FTW-LAB) · **Hub:** [https://ftwlab.com/models](https://ftwlab.com/models)
+**Securist** · [github.com/securist/tarx-bridge](https://github.com/securist/tarx-bridge) · [https://secur.ist/models](https://secur.ist/models)
 
 ```bash
-git clone https://github.com/FTW-LAB/tarx-bridge.git
+git clone https://github.com/securist/tarx-bridge.git
 cd tarx-bridge
 npm test
 ```
 
 ## Security
-See [SECURITY.md](./SECURITY.md) · https://ftwlab.com/security · ops@ftwlab.com
+[SECURITY.md](./SECURITY.md) · https://secur.ist/security · security@secur.ist
 
 ## Agent
-See [AGENT.md](./AGENT.md)
+[AGENT.md](./AGENT.md)
 
 ## Posture
 UNCLASSIFIED // PUBLIC SOURCE  

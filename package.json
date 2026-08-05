@@ -1,15 +1,16 @@
 {
-  "name": "@ftw-lab/tarx-bridge",
+  "name": "@securist/tarx-bridge",
   "version": "0.1.0",
   "description": "TARX upstream-only local runtime integration notes",
   "type": "module",
   "license": "MIT",
-  "repository": "https://github.com/FTW-LAB/tarx-bridge",
+  "repository": "https://github.com/securist/tarx-bridge",
+  "homepage": "https://secur.ist/models",
   "scripts": {
     "test": "node -e \"console.log('ok', require('./package.json').name)\""
   },
   "keywords": [
-    "ftw-lab",
+    "securist",
     "infosec"
   ]
 }
