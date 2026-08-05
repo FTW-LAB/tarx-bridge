@@ -1,13 +1,23 @@
 # tarx-bridge
 
-**TARX upstream only** interop notes (org **FTW-LAB**).
+TARX upstream-only local runtime integration notes
+
+**Org:** [FTW-LAB](https://github.com/FTW-LAB) · **Hub:** [https://ftwlab.com/models](https://ftwlab.com/models)
 
 ```bash
 git clone https://github.com/FTW-LAB/tarx-bridge.git
+cd tarx-bridge
+npm test
 ```
 
-- Integrate local private runtime — **do not vendor** proprietary TARX surfaces
-- Field HF models offline via `huggingface-cli` + operator cache
-- Site: https://ftwlab.com/models#tarx
+## Security
+See [SECURITY.md](./SECURITY.md) · https://ftwlab.com/security · ops@ftwlab.com
 
-ops@ftwlab.com
+## Agent
+See [AGENT.md](./AGENT.md)
+
+## Posture
+UNCLASSIFIED // PUBLIC SOURCE  
+INFOSEC · OSINT · CTI · GEOIP · MODELS  
+
+Public source only. Authorized use. GeoIP is not identity.
