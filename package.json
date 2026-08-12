@@ -1,0 +1,16 @@
+{
+  "name": "@securist/tarx-bridge",
+  "version": "0.1.0",
+  "description": "TARX upstream-only local runtime integration notes",
+  "type": "module",
+  "license": "MIT",
+  "repository": "https://github.com/Securist-InfoSec/tarx-bridge",
+  "homepage": "https://secur.ist/models",
+  "scripts": {
+    "test": "node -e \"console.log('ok', require('./package.json').name)\""
+  },
+  "keywords": [
+    "securist",
+    "infosec"
+  ]
+}
